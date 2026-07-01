@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi Primer Proyecto</title>
+</head>
+<body>
+
+    <h1>Proyecto  Colaborativo</h1>
+
+    <p>
+        Este proyecto tiene como objetivo aprender a trabajar
+        utilizando Git y GitHub.
+    </p>
+
+    <h2>Integrantes</h2>
+         Leonardo Vergara 
+    <ul>
+        <li>Fred</li>
+    </ul>
+
+</body>
+</html>
