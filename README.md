@@ -12,7 +12,7 @@ Aprender el uso de Git y GitHub para el trabajo colaborativo.
 -Git
 -GitHub
 -Repositorios
--Branches (ramas)
+-Branches 
 -Commits
 -Merge
 -Pull Requests
